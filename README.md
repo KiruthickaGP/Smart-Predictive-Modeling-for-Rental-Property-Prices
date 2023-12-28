@@ -27,10 +27,15 @@ This Streamlit web application is designed for predictive modeling of rental pro
 - Visualize data uploaded by the user through CSV files.
 - Choose from various plot types such as bar plots, scatter plots, histograms, and box plots.
 
+### 4. Predictive Analysis
+
+- Predict data uploaded by the user through CSV files.
 
 ### Prerequisites
 
 - Python 3.7 or higher
 - Install required libraries using `pip install -r requirements.txt`
+
+
 
 
